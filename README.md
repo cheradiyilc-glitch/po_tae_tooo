@@ -1,5 +1,3 @@
-<img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
-
 # [po-tae-too...] 🥔
 
 > *"Scan a potato. Discover its emotional damage."*
@@ -8,12 +6,11 @@
 
 ## Basic Details
 
-### Team Name: [Your Team Name]
+### Team Name:[kurkure]
 
 ### Team Members
-- Team Lead: [Name] - [College / Institution]
-- Member 2: [Name] - [College / Institution]
-- Member 3: [Name] - [College / Institution]
+- Team Lead: [Swaliha CU] - [College of engineering karunagappally]
+- Member 2: [Fathima Reem p] - [College of engineering karunagappally]
 
 ### Project Description
 **po-tae-too...** is a completely useless, NASA-level bio-tuber diagnostic web application. It scans ordinary potatoes using browser-side computer vision heuristics to determine their existential dread, social battery, and burnout levels — culminating in an authentic, sarcastic Kerala-style Malayalam verdict.
