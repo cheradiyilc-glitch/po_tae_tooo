@@ -1,3 +1,6 @@
+<img width="1280" height="640" alt="644430708-8920b256-2ba8-4988-b824-5351134eb4bd" src="https://github.com/user-attachments/assets/7cfeb80f-67b0-4c0c-8649-a371f41b611c" />
+
+
 # [po-tae-too...] 🥔
 
 > *"Scan a potato. Discover its emotional damage."*
