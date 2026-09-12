@@ -94,16 +94,13 @@ Double-click [`run.bat`](./run.bat) in the project root. It will automatically c
 
 ### Option 2: Manual Terminal Commands
 ```bash
-# 1. Navigate to project folder
-cd potato-analyzer
-
-# 2. Install dependencies
+# 1. Install dependencies
 npm install
 
-# 3. Start development server
+# 2. Start development server
 npm run dev
 
-# 4. Build for production
+# 3. Build for production
 npm run build
 ```
 
