@@ -4,9 +4,8 @@
   "version": "1.0.0",
   "description": "po-tae-too... Scan a potato. Discover its emotional damage.",
   "scripts": {
-    "dev": "npm --prefix potato-analyzer run dev",
-    "build": "npm --prefix potato-analyzer run build",
-    "preview": "npm --prefix potato-analyzer run preview",
-    "start": "npm --prefix potato-analyzer run dev"
+    "build": "echo Pre-built production files ready in potato-analyzer/dist",
+    "preview": "npx serve potato-analyzer/dist",
+    "start": "npx serve potato-analyzer/dist"
   }
 }

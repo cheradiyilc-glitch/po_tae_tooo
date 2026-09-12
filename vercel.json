@@ -1,0 +1,10 @@
+{
+  "outputDirectory": "potato-analyzer/dist",
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/$1"
+    }
+  ]
+}

@@ -8,16 +8,14 @@
 
 ## Basic Details
 
-### Team Name: [Your Team Name]
+### Team Name: [kurkure]
 
 ### Team Members
-- Team Lead: [Name] - [College / Institution]
-- Member 2: [Name] - [College / Institution]
-- Member 3: [Name] - [College / Institution]
+- Team Lead: [swaliha CU] - [College of engineering karunagappally]
+- Member 2: [Fathima Reem P] - [College of rngineering karunagappally]
 
 ### Project Description
-**po-tae-too...** is a completely useless, NASA-level bio-tuber diagnostic web application. It scans ordinary potatoes using browser-side computer vision heuristics to determine their existential dread, social battery, and burnout levels — culminating in an authentic, sarcastic Kerala-style Malayalam verdict.
-
+**po-tae-too...** 🥔 is a completely useless yet hilarious project that detects and scans a potato, then analyzes it to reveal its “emotion” — happy, sad, angry, confused, sleepy, or stressed. Because apparently, potatoes have feelings too, and someone had to understand them! 😂
 ### The Problem (that nobody had)
 Human emotions are complicated. Potatoes are easier. In an era where AI is solving grand challenges, nobody stopped to ask: *“How is that potato in your fridge emotionally coping with Monday morning?”* We built an over-engineered diagnostic platform to solve this completely unnecessary question.
 
